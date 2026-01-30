@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">🧰 Frameworks & Techs</h1>
+<h1 align="center">🧰 Tools & Techs</h1>
 
 <p align="center">
   <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px">
